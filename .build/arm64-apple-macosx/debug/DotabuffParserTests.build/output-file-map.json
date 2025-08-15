@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/master.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/Tests/DotabuffParserTests/DotabuffParserTests.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffParserTests.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffParserTests.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffParserTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffParserTests.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/Tests/DotabuffParserTests/DotabuffViewModelTests.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffViewModelTests.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffViewModelTests.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffViewModelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/DotabuffViewModelTests.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/Tests/DotabuffParserTests/TextFieldUITests.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/TextFieldUITests.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/TextFieldUITests.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/TextFieldUITests~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserTests.build/TextFieldUITests.swiftdeps"
+  }
+}

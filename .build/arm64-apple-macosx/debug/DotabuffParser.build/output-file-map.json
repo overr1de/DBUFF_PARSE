@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/master.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/ContentView.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/ContentView.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/ContentView.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/ContentView.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/DotabuffParserApp.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffParserApp.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffParserApp.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffParserApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffParserApp.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/DotabuffService.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffService.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffService.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffService~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffService.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/DotabuffViewModel.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffViewModel.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffViewModel.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/DotabuffViewModel.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/Models.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/Models.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/Models.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParser.build/Models.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/master.swiftdeps"
+  },
+  "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/runner.d",
+    "object": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/runner.swiftdeps"
+  }
+}

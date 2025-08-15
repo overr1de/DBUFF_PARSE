@@ -1,0 +1,4 @@
+module DotabuffParserPackageTests {
+    header "/Users/evgenybukhgammer/MY STUFF/claude_projects/dotabuff_parser/.build/arm64-apple-macosx/debug/DotabuffParserPackageTests.build/DotabuffParserPackageTests-Swift.h"
+    requires objc
+}
