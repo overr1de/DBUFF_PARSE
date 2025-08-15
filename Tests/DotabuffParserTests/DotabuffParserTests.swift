@@ -1,5 +1,5 @@
 import XCTest
-@testable import DotabuffParser
+@testable import DotabuffParserCore
 
 final class DotabuffParserTests: XCTestCase {
     func testExample() throws {

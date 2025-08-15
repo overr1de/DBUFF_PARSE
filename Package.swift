@@ -17,15 +17,21 @@ let package = Package(
         .package(url: "https://github.com/scinfu/SwiftSoup.git", from: "2.6.0")
     ],
     targets: [
+        .target(
+            name: "DotabuffParserCore",
+            dependencies: ["SwiftSoup"],
+            path: "Sources"
+        ),
         .executableTarget(
             name: "DotabuffParser",
-            dependencies: ["SwiftSoup"],
+            dependencies: ["DotabuffParserCore"],
             path: ".",
-            exclude: ["Tests/", "TestRunner.swift"]
+            exclude: ["Tests/", "TestRunner.swift", "Sources/"],
+            sources: ["DotabuffParserApp.swift"]
         ),
         .testTarget(
             name: "DotabuffParserTests",
-            dependencies: ["DotabuffParser"],
+            dependencies: ["DotabuffParserCore"],
             path: "Tests/DotabuffParserTests"
         )
     ]

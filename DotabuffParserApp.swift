@@ -1,4 +1,5 @@
 import SwiftUI
+import DotabuffParserCore
 
 @main
 struct DotabuffParserApp: App {

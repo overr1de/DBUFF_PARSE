@@ -1,6 +1,8 @@
 import XCTest
 import SwiftUI
 import Combine
+import Foundation
+@testable import DotabuffParserCore
 
 @MainActor
 final class DotabuffViewModelTests: XCTestCase {
