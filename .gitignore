@@ -52,11 +52,8 @@ Podfile.lock
 Carthage/Build/
 Carthage/Checkouts/
 
-# SPM artifacts
-.swiftpm/config/registries.json
-.swiftpm/xcode/package.xcworkspace/
-.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
-.swiftpm/xcode/package.xcworkspace/xcuserdata/
+# SPM artifacts (user-specific, never commit)
+.swiftpm/
 
 # Test artifacts
 *.gcno
