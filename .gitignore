@@ -1,1 +1,82 @@
-.build
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Build products
+build/
+DerivedData/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.xcuserdata
+*.xcuserdatad/
+xcuserdata/
+UserInterfaceState.xcuserstate
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Swift Package Manager dependencies (downloaded automatically)
+Packages/
+!Package.swift
+
+# CocoaPods (if used in future)
+Pods/
+Podfile.lock
+
+# Carthage (if used in future)
+Carthage/Build/
+Carthage/Checkouts/
+
+# SPM artifacts
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.swiftpm/xcode/package.xcworkspace/xcuserdata/
+
+# Test artifacts
+*.gcno
+*.gcda
+*.profraw
+
+# Debug files
+*.dSYM/
+*.dSYM.zip
+
+# Temporary files
+*~
+.tmp/
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Cache files
+.cache/
